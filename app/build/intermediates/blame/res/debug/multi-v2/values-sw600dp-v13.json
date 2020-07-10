@@ -4,7 +4,7 @@
             "outputFile": "/home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/res/values-sw600dp/values-sw600dp.xml",
+                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/res/values-sw600dp/values-sw600dp.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,11,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/res/values-sw600dp/values-sw600dp.xml",
+                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/res/values-sw600dp/values-sw600dp.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,13,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

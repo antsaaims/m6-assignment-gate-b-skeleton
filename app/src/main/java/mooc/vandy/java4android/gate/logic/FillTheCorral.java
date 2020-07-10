@@ -26,39 +26,42 @@ public class FillTheCorral {
 
     public void setCorralGates(Gate[] gate,  Random selectDirection){//method that is passed an array of Gate objects and a Random
         //object and sets the direction of each gate’s swing.
-    for(Gate mygate: gate){
-        int newsing=selectDirection.nextInt(2)-1;//this will select number from 0 to 2
+        for(int i=0; i<gate.length;i++){
+            int newswing=selectDirection.nextInt(3)-1  ;//this will select number from 0 to 2
         // so decreasing it by 1 will allow us to have -1, 0, 1
-        mygate.mSwing=  newsing;
-
-         }
-
-
+            Gate mygate=gate[i];
+            mygate.open(newswing)  ;
+           }
     }
+
+
+
+
 
     public Boolean anyCorralAvailable(Gate[] gate){
       Boolean mytest=false;
-      int seed=1
-      do {
-          int mycount = 0
-          do {
-              int swing = gate[i].mSwing();
-              i = i + 1;
-              if (swing == 1)
-                  mytest = true;
-          } while (mytest == false && i <= gate.size())
+     // int seed=1;
+     // Random selectDirection= new Random();
+      //do {
+          //selectDirection.setSeed(seed);
+        //  setCorralGates( gate, selectDirection);
+          //int mycount = 0;
 
+          for(int i=0; i<gate.length;i++ ){
+           Gate mygate=gate[i];
+           if( mygate.getSwingDirection() == Gate.IN ) {
+               return true;
+                }
+          }
 
+         // seed+=1;
 
-      }while(mytest==false)// We need at least one IN gate
-
-      Random selectDirection=new Random();
-      selectDirection.setSeed(seed);
-      setCorralGates( gate, selectDirection);
-      seed+=1;
-
+     // }while(mytest==false); // We need at least one IN gate
       return mytest;
     }
+
+
+
     public int corralSnails(Gate[] gate, Random rnd){//Create corralSnails() that is passed an array of Gate objects and a Random object and
         //runs the simulation, as follows:
        int numsnails=5; //o The method begins with 5 snails out to pasture
@@ -68,7 +71,7 @@ public class FillTheCorral {
           int s = rnd.nextInt(numsnails + 1);   //o Generate a random number of snails s, not to exceed the number already out to
           //      pasture
 
-          int numgate = rnd.nextInt(gate.size() + 1)
+          int numgate = rnd.nextInt(gate.length + 1);
           Gate mygate = gate[numgate];     //o Randomly select one of the four Gate objects G
 
           int goin = mygate.thru(s);  //o Attempt to move s snails through gate G and adjust the number of snails out to
@@ -77,27 +80,13 @@ public class FillTheCorral {
               numsnails -= s;
 
           }
-          mOut.println(new StringBuilder().append(s.toString()).append(" are trying to move through corral").append(numgate.toString()).toString());
+          mOut.println( Integer.toString(s)+" are trying to move through corral "+Integer.toString(numgate));
           numberattempts+=1;
-      }while(numsnails>0)
+      }while(numsnails>0);
 
-    mOut.print( numberattempts.toString()+"" )
+    mOut.println("It took " + Integer.toString(numberattempts)+ " attempts to corral all of the snails." );
      return numberattempts;
     }
-
-
-
-
-
-    //o For each iteration, use mOut.println() to display the attempted movement of
-    //snails. The simulation ends when all of the snails have been corralled.
-    //o Finally, this method prints and returns the number of attempts that were
-    //required to corral all the snails (see sample output below)
-
-
-
-
-
 
 
 

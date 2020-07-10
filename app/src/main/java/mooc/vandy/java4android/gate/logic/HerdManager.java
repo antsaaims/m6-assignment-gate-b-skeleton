@@ -49,41 +49,43 @@ public class HerdManager {
     public static final int HERD=24;//the size of our escargatoire
     public int inside=24;//number of snails currently inside the pen. There is no need for a variable outside since it is 24-inside
     //Create a simulateHerd() method that accepts a Random object as an input parameter.
+
+
+
     public void simulateHerd(Random Rnd){
          int size=HERD;  // Set a local variable inside of simulateHerd() equal to the size of the HERD.
-         int numberofiteration=10; //The method will run ten iterations of the simulation.
+         //int numberofiteration=10; //The method will run ten iterations of the simulation.
 
-         for(int i=1; i<=numberofiteration;i++){
+         for(int i=1; i<=10;i++){
 
-             if(inside==24){
-                 usegate(mEastGate);
+             if(inside==24){// If there is no snails out for pastures
+                 usegate(mEastGate,  Rnd, size);
              }
              else{
 
-                 Boolean bool=Rnd.nextBoolean();
-                 if(bool=false){ //the snails will go out
-                     usegate(mEastGate);
+                 Boolean bool=Rnd.nextBoolean();// Randomly select the gate
+                 if(bool==true){  //the snails will go out
+                     usegate(mEastGate,  Rnd, size);
                  }
                  else{
 
-                     usegate(mWestGate);
+                     usegate(mWestGate,  Rnd, size);
                  }
 
              }
 
-          mOut.printf("There are currently  %d snails in the pen and %d snails in the pasture", inside, 24-inside);
-
-
-
+          mOut.println("There are currently " + Integer.toString(inside)+" snails in the pen and "+ Integer.toString(24-inside)+" snails in the pasture");
 
               }
 
 
           }
 
+
     public void usegate(Gate gate, Random Rnd, int size ){
         int mynumber;
-        if(gate.mSwing==-1){
+
+        if(gate.getSwingDirection()==Gate.OUT){
             mynumber=Rnd.nextInt(inside+1);
             inside-=mynumber;// the snails will go out the number of snails inside will diminish
 
@@ -95,24 +97,4 @@ public class HerdManager {
         }
 
     }
-
-  //  In each iteration, use the Random object
-   // passed as a parameter to the method to randomly select one of the pen gates and move
-   // a random number of snails through that gate (IN or OUT depending on the gate’s swing
-     //       state), thereby changing the number of snails in the pen and out to pasture.
-  //  You must be sure that neither of the numbers “in the pen” or “out to pasture” is ever
-    //negative and that the sum total of snails is always equal to the size of the HERD. If there
-    //are no snails currently out to pasture during some iteration do not randomly select a
-   // gate, but instead move a random number of snails out of the pen and into the pasteur
-   // using your OUT gate (mEastGate).
-   // The range of random numbers generated will change according to which gate you
-  //  have selected and how many snails are currently available to go through that selected
- //   gate, but should always be greater than 0. Print out the necessary information for each
-   // iteration as shown in the sample run of HerdManager.java below. Note that the first
-   // output line has been included in your skeleton program. Your output format must
-  //  match the sample exactly as shown below.
-
-
-
-
 }

@@ -4,9 +4,9 @@ ADDED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/380e2288c968358ec3d5c784924f8ffb/support-v4-22.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/8edc50444f32e8c97c73f508f791aad1/support-v4-22.2.1/AndroidManifest.xml:17:1-24:12
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
@@ -26,12 +26,12 @@ INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/s
 		ADDED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/380e2288c968358ec3d5c784924f8ffb/support-v4-22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/380e2288c968358ec3d5c784924f8ffb/support-v4-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/8edc50444f32e8c97c73f508f791aad1/support-v4-22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/8edc50444f32e8c97c73f508f791aad1/support-v4-22.2.1/AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
@@ -60,12 +60,12 @@ uses-sdk
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/18254507d5242d127ffab26b7025333d/design-22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/380e2288c968358ec3d5c784924f8ffb/support-v4-22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/380e2288c968358ec3d5c784924f8ffb/support-v4-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/8edc50444f32e8c97c73f508f791aad1/support-v4-22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/prudence/.gradle/caches/transforms-2/files-2.1/8edc50444f32e8c97c73f508f791aad1/support-v4-22.2.1/AndroidManifest.xml:20:5-43
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml
 INJECTED from /home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

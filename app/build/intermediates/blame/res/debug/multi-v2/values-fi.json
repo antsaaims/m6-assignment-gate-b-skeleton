@@ -4,7 +4,7 @@
             "outputFile": "/home/prudence/Documents/ANtsa/m6-assignment-gate-b-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/37bb0fb2a8d9245d24011877dfce3480/appcompat-v7-22.2.1/res/values-fi/values-fi.xml",
+                    "source": "/home/prudence/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
