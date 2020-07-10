@@ -62,7 +62,7 @@ public class FillTheCorral {
     public int corralSnails(Gate[] gate, Random rnd){//Create corralSnails() that is passed an array of Gate objects and a Random object and
         //runs the simulation, as follows:
        int numsnails=5; //o The method begins with 5 snails out to pasture
-
+       int numberattempts=0;
 
       do {
           int s = rnd.nextInt(numsnails + 1);   //o Generate a random number of snails s, not to exceed the number already out to
@@ -78,9 +78,11 @@ public class FillTheCorral {
 
           }
           mOut.println(new StringBuilder().append(s.toString()).append(" are trying to move through corral").append(numgate.toString()).toString());
-
+          numberattempts+=1;
       }while(numsnails>0)
 
+    mOut.print( numberattempts.toString()+"" )
+     return numberattempts;
     }
 
 

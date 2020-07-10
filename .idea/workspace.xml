@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7090b32d-5bbc-44e4-9830-57867fdd1288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle________________var_autofs_misc_home_antsa_AndroidStudioProjects_m6_assignment_gate_b_skeleton_app_libs_mobilecloud_handin_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/-1926344227/m6-assignment-gate-b-skeleton-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/-554805301/AndroidStudioProjects-m6-assignment-gate-b-skeleton.iml" afterDir="false" />
+      <change afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle________________var_autofs_misc_home_antsa_AndroidStudioProjects_m6_assignment_gate_b_skeleton_app_libs_mobilecloud_handin_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules/-1926344227/m6-assignment-gate-b-skeleton-app.iml" afterDir="false" />
+      <change afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules/-554805301/AndroidStudioProjects-m6-assignment-gate-b-skeleton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_mobilecloud_handin_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_22_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_22_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_22_2_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_22_2_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_22_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_17_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_17_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_3_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_3_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/m6-assignment-gate-b-skeleton.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/gradle.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle____app_libs_mobilecloud_handin_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_appcompat_v7_22_2_1_aar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_appcompat_v7_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_design_22_2_1_aar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_design_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_support_annotations_22_2_1_jar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_support_annotations_22_2_1_jar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_support_v4_22_2_1_aar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_android_support_support_v4_22_2_1_aar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_google_guava_guava_17_0_jar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__com_google_guava_guava_17_0_jar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_3_2_jar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_3_2_jar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/misc.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/misc.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/modules/m6-assignment-gate-b-skeleton.iml" beforeDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/vcs.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/workspace.xml" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" afterDir="false" />
+      <change beforePath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/local.properties" beforeDir="false" afterPath="/var/autofs/misc/home/antsa/AndroidStudioProjects/m6-assignment-gate-b-skeleton/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +94,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="Android JUnit.AllUnitTests">
+  <component name="RunManager" selected="Android App.m6-assignment-gate-b-skeleton-app">
     <configuration name="AllUnitTests" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -67,6 +120,57 @@
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="m6-assignment-gate-b-skeleton-app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="m6-assignment-gate-b-skeleton-app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
